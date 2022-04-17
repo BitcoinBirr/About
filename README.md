@@ -1,4 +1,4 @@
-# About Bitcoin Birr
+# About BitcoinBirr
 
 ![BitcoinBirr org - An Open Source Initative](https://user-images.githubusercontent.com/87287532/126019697-9833b9f5-8d98-4f03-b755-b0b1a4e6abfd.jpg)
 ![BitcoinBirr org - An Open Source Initative2](https://user-images.githubusercontent.com/87287532/126019723-c373317d-9d24-42a3-9263-9a5b689fc50b.jpg)
